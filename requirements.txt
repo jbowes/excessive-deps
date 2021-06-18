@@ -1,0 +1,9 @@
+greenlet==1.0.0
+jedi==0.18.0
+mistune==0.8.4
+msgpack==1.0.2
+neovim==0.3.1
+parso==0.8.1
+psutil==5.8.0
+pynvim==0.4.2
+setproctitle==1.2.2
