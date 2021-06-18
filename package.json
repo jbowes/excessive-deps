@@ -1,0 +1,35 @@
+{
+  "name": "excessive-deps",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@angular/core": "^12.0.5",
+    "@nestjs/common": "^7.6.18",
+    "@nestjs/core": "^7.6.18",
+    "@nestjs/graphql": "^7.11.0",
+    "angular": "^1.8.2",
+    "angular2": "^2.0.0-beta.21",
+    "apollo-server-express": "^2.25.1",
+    "ember": "^1.0.3",
+    "ember-source": "^3.27.5",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.5",
+    "nest": "^0.1.6",
+    "pg": "^8.6.0",
+    "pq": "0.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "redis": "^3.1.2",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.1.0",
+    "sails": "^1.4.3",
+    "vue-component": "^0.3.1",
+    "zone.js": "^0.11.4"
+  }
+}
