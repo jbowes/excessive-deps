@@ -6,11 +6,11 @@
 version: 2
 updates:
   - package-ecosystem: "gradle" # See documentation for possible values
-    directory: "/java/grade" # Location of package manifests
+    directory: "/java/gradle" # Location of package manifests
     schedule:
       interval: "daily"
 
   - package-ecosystem: "gradle" # See documentation for possible values
-    directory: "/java/grade-no-lock" # Location of package manifests
+    directory: "/java/gradle-no-lock" # Location of package manifests
     schedule:
       interval: "daily"
