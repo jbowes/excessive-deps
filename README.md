@@ -14,6 +14,16 @@ A repo with lots of package ecosystems, as supported by Snyk server-side (git) s
   - with lockfile
   - without lockfile
 - Java
+  - Maven
+  - Gradle with lockfile
+  - Gradle without lockfile
 - .Net
+  - nuget (lots of versions to unpack there)
 - Swift
+  - cocoapods
+    - podfile with lock
+    - podfile without lock
 - PHP
+  - composer
+    - with lock
+    - without lock
