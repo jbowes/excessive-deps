@@ -10,9 +10,7 @@ A repo with lots of package ecosystems, as supported by Snyk server-side (git) s
   - dep
   - govendor
 - ~Python~
-- Ruby
-  - with lockfile
-  - without lockfile
+- ~Ruby~
 - Java
   - Maven
 - .Net
