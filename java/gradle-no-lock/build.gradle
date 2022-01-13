@@ -4,6 +4,6 @@ dependencies {
 
 dependencies {
     constraints {
-        implementation 'org.springframework:spring-web:3.2.6.RELEASE'
+        implementation 'org.springframework:spring-web:5.3.15'
     }
 }
