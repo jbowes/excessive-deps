@@ -1,0 +1,51 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - miguelcostero-ng2-toasty > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - digital-keyboard-demos > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > sntp > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > hawk > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > cryptiles > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > hawk > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > hawk > sntp > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > hawk > cryptiles > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > loggly > request > hawk > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > loggly > request > hawk > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > loggly > request > hawk > sntp > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > log4js > loggly > request > hawk > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > loggly > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > log4js > loggly > request > hawk > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > log4js > loggly > request > hawk > sntp > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > log4js > loggly > request > hawk > cryptiles > boom > hoek:
+        patched: '2022-06-29T15:34:47.835Z'
+  'npm:lodash:20180130':
+    - miguelcostero-ng2-toasty > vorpal > inquirer > lodash:
+        patched: '2022-06-29T15:34:47.835Z'
+  'npm:stringstream:20180511':
+    - digital-keyboard-demos > stringstream:
+        patched: '2022-06-29T15:34:47.835Z'
+  'npm:tunnel-agent:20170305':
+    - miguelcostero-ng2-toasty > loggly > request > tunnel-agent:
+        patched: '2022-06-29T15:34:47.835Z'
+    - miguelcostero-ng2-toasty > log4js > loggly > request > tunnel-agent:
+        patched: '2022-06-29T15:34:47.835Z'
