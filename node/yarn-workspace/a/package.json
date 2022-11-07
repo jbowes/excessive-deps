@@ -21,7 +21,7 @@
     "connect-mongo": "^4.4.1",
     "digital-keyboard-demos": "^1.0.1",
     "ember": "^1.0.3",
-    "ember-source": "^3.27.5",
+    "ember-source": "^3.28.10",
     "eslint-plugin-react": "^7.24.0",
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.5",
