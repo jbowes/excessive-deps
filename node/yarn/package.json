@@ -30,7 +30,7 @@
     "lodash": "^4.17.21",
     "miguelcostero-ng2-toasty": "0.0.0-semantically-released",
     "nest": "^0.1.6",
-    "next": "^11.0.0",
+    "next": "^12.0.9",
     "pg": "^8.6.0",
     "pq": "0.0.3",
     "react": "^17.0.2",
