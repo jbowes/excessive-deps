@@ -26,7 +26,7 @@
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.5",
     "gulp-watch": "^5.0.1",
-    "jest": "^27.0.4",
+    "jest": "^30.0.0",
     "lodash": "^4.17.21",
     "miguelcostero-ng2-toasty": "0.0.0-semantically-released",
     "nest": "^0.1.6",
