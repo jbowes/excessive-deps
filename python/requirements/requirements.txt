@@ -107,3 +107,4 @@ lisa-plugins-test==0.1.2
 django-redis==5.0.0
 
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
